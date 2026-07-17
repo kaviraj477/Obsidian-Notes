@@ -6,7 +6,7 @@
       {
         "id": "88145f6c52c61960",
         "type": "tabs",
-        "dimension": 62.32876712328767,
+        "dimension": 72.29916897506925,
         "children": [
           {
             "id": "067c5183c8ff9b37",
@@ -40,19 +40,37 @@
             "id": "2e682cdcf8cf336a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "SYNTAX.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "SYNTAX"
+            }
+          },
+          {
+            "id": "863b97ceb300486f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GITHUB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GITHUB"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "1ba5b31eafa47e66",
         "type": "tabs",
-        "dimension": 37.671232876712324,
+        "dimension": 27.70083102493075,
         "children": [
           {
             "id": "8dd76daffd79e4e7",
@@ -237,9 +255,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e682cdcf8cf336a",
+  "active": "863b97ceb300486f",
   "lastOpenFiles": [
     "SYNTAX.md",
+    "GITHUB.md",
     "Untitled.base",
     "Welcome.md"
   ]
