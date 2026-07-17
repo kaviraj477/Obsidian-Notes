@@ -63,9 +63,23 @@
               "icon": "lucide-file",
               "title": "GITHUB PROCEDURE"
             }
+          },
+          {
+            "id": "517a20cb61e873b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GIT CODE IMPORTING.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GIT CODE IMPORTING"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "1ba5b31eafa47e66",
@@ -255,12 +269,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1d75bb5fe451bb36",
+  "active": "517a20cb61e873b5",
   "lastOpenFiles": [
+    "GITHUB PROCEDURE.md",
+    "GIT CODE IMPORTING.md",
     "Pasted image 20260717112726.png",
     "SYNTAX.md",
-    "GITHUB PROCEDURE.md",
-    "GITHUB PROCEDURE.md",
     "GITHUB.md",
     "Untitled.base",
     "Welcome.md"
