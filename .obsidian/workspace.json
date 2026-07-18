@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LOCATORS.md",
+                "file": "GITHUB PROCEDURE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LOCATORS"
+              "title": "GITHUB PROCEDURE"
             }
           },
           {
@@ -261,10 +261,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ad0b0ad098e1ee8c",
+  "active": "2466250ac9cea4c3",
   "lastOpenFiles": [
-    "GITHUB PROCEDURE.md",
     "LOCATORS.md",
+    "GITHUB PROCEDURE.md",
     "GIT CODE IMPORTING.md",
     "Pasted image 20260717112726.png",
     "SYNTAX.md",

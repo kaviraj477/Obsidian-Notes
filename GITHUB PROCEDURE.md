@@ -1,4 +1,4 @@
-GIT HUB:
+**GIT HUB:**
 
 #1 : install git hub
 #2 : open uses > admin folder >  right click ---> more options---> open git bash here
@@ -28,7 +28,7 @@ GIT HUB:
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
-IN SHORT:
+**IN SHORT:**
 
 git config --global user.email "email id" - to config the email globally in local machine
 git config --global user.name "username" - to config the user name globally in local machine
@@ -40,19 +40,28 @@ git remote add origin "repo url" - to add the repository url to the .git folder
 git push origin master - to upload the added code into the remote repository
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
-1.WHEN WE WANT TO UPDATE THE CHANGES MADE IN OUR LOCAL TO GITHUB
+**1.WHEN WE WANT TO UPDATE THE CHANGES MADE IN OUR LOCAL TO GITHUB:**
+
 i)   open gitBash in local folder (where your eclipse ide is located (E:-->SELENIUM-->JavaSelenium-->Selenium Feb)
+
 ii)  git status
+
 iii) git add .
+
 iv)  git commit -m "message we want to send"
+
 v)   git push origin master
 
 
 
-1.WHEN WE CREATE / DELETE ANYTHING DIRECTLY IN GITHUB
+**1.WHEN WE CREATE / DELETE ANYTHING DIRECTLY IN GITHUB**:
+
 i)   open the local folder
+
 ii)  open gitBash
+
 iii) git pull origin master
+
 iv) IN CASE OF ERROR (blue text box) type> [Esc (one time)---> type (:wq) ---> enter---> git push origin master
 
 
