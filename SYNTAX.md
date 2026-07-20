@@ -45,8 +45,11 @@ withTimeout(Duration.ofSeconds(30))
 
  fwait.until(ExpectedConditions.elementToBeClickable(userName));
 
-13)FILE :
- File var =  new File (path\\filename.type)
+13)FILE :  ("refer Pack: exceptionHandling-->FileHandling ")
+ File var =  new File (path:\\filename.type)
+ boolean B1 = var.mkdir();    //For creating a single folder:--->path name end with folder name
+ boolean B2 = var.mkdirs();  //For creating multiple folder: -->end with folder inside folder.... names
+ boolean B3 = var.createNewFile(); //For creating files:-->for this path name should end with file format(.pdf etc)
 
 14)JAVASCRIPT EXECUTOR:
   JavascriptExecutor js = (JavascriptExecutor)driver;
