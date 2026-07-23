@@ -25,13 +25,13 @@ vi) PUSHING TO ECLIPSE TO GITHUB:
 
 1. METHOD#1: *via eclipse ide*
     after creating new program we should push that to remote:
-    right click (project)-->team-->commit-->choose your progrom in unstaged changes-->hover and select add buuton -->commit message-->commit and push-->[^1]Login if asked-->
+    right click (project)-->team-->commit-->choose your program in unstaged changes-->hover and select add button -->commit message-->commit and push-->[^1]Login if asked-->
             
 2. METHOD#2: *eclipse + gitbash*
     .....-->commit-->open project folder-->git bash-->git push 
 
 3. METHOD#3:
-   open project folder-->git bash--> git add . -->git commit -m "..."-->git push (or) git push origin branchName (ensure your branch name is visible in gitbash here)
+   open project folder-->git bash--> git add . -->git commit -m "..."-->git push (or) git push origin BranchName (ensure your branch name is visible in gitbash here)
 
 vi) *PROCEDURE ON HOW TO LOGIN *
 
