@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CALLING METHODS.md",
+                "file": "LOCATORS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CALLING METHODS"
+              "title": "LOCATORS"
             }
           },
           {
@@ -277,8 +277,8 @@
   },
   "active": "41359b85a4a2632c",
   "lastOpenFiles": [
-    "SYNTAX.md",
     "CALLING METHODS.md",
+    "SYNTAX.md",
     "LOCATORS.md",
     "GITHUB PROCEDURE.md",
     "GIT CODE IMPORTING.md",

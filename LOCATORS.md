@@ -12,4 +12,8 @@
 | ClassName       |                                                                               | tagName.classValue                                           |
 | immediate child | Xpath we use (/)                                                              | immediate child (>)                                          |
 | Subchild        |                                                                               | space (   )                                                  |
-|                 |                                                                               |                                                              |
+| LinkText        | driver.findElement(By.linkText("exact link text"));                           |                                                              |
+| Tag             | driver.findElement(By.xpath("//tag[@attribute='value']"));                    |                                                              |
+| TagName         | driver.findElement(By.tagName("value"));                                      |                                                              |
+| Partial         | driver.findElement(By.partialLinkText("partial text"));                       |                                                              |
+| Name            | driver.findElement(By.name("value"));                                         |                                                              |
