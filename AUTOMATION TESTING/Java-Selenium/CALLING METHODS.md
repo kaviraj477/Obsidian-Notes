@@ -1,3 +1,5 @@
+[[Java]]
+
 1.STATIC METHOD:
     i) Same class :
         methodName();

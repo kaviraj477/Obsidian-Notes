@@ -1,4 +1,4 @@
-*WORKING IN SOMEONES REPOSITORY IN GIT AND NEED TO GET IT IN LOCAL:* [[GitHub]]   [[Eclipse IDE]]
+*[[WORKING IN SOMEONES REPOSITORY]]  IN GIT AND NEED TO GET IT IN LOCAL:* [[GitHub]]   [[Eclipse IDE]]
 
 
 i) Git Bash here-->git clone "repository URL (of someone) "

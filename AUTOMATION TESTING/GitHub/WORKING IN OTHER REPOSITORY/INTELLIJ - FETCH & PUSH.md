@@ -1,4 +1,4 @@
-[[GitHub]]   [[IntelliJ]]
+*[[WORKING IN SOMEONES REPOSITORY]]  IN GIT AND NEED TO GET IT IN LOCAL:* [[GitHub]]   [[IntelliJ]]
 
  *PROCEDURES* :
  
