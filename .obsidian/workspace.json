@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AUTOMATION TESTING/GitHub/GitHub.md",
+                "file": "AUTOMATION TESTING/GitHub/WORKING IN OTHER REPOSITORY/ECLIPSE IDE - FETCH & PUSH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GitHub"
+              "title": "ECLIPSE IDE - FETCH & PUSH"
             }
           }
         ],
@@ -225,14 +225,14 @@
   },
   "active": "14839977f77c7827",
   "lastOpenFiles": [
+    "AUTOMATION TESTING/GitHub/WORKING IN OTHER REPOSITORY/INTELLIJ - FETCH & PUSH.md",
+    "AUTOMATION TESTING/GitHub/GitHub.md",
     "Git Bash.md",
     "AUTOMATION TESTING/GitHub/GIT CODE IMPORTING.md",
     "AUTOMATION TESTING/GitHub/GITHUB PROCEDURE.md",
     "Stash.md",
     "Commit revert.md",
-    "AUTOMATION TESTING/GitHub/GitHub.md",
     "AUTOMATION TESTING/GitHub/WORKING IN OTHER REPOSITORY/ECLIPSE IDE - FETCH & PUSH.md",
-    "AUTOMATION TESTING/GitHub/WORKING IN OTHER REPOSITORY/INTELLIJ - FETCH & PUSH.md",
     "Eclipse IDE.md",
     "AUTOMATION TESTING/Java-Selenium/SYNTAX.md",
     "AUTOMATION TESTING/Java-Selenium/DOM LOCATORS.md",
