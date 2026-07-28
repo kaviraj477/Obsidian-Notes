@@ -11,13 +11,46 @@
             "id": "71cc62748dc30b1e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "AUTOMATION TESTING/GitHub/GITHUB PROCEDURE.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "GITHUB PROCEDURE"
+            }
+          },
+          {
+            "id": "bccc742e5c395e49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Commit revert.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Commit revert"
+            }
+          },
+          {
+            "id": "14839977f77c7827",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AUTOMATION TESTING/GitHub/GitHub.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GitHub"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -190,8 +223,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ad0b0ad098e1ee8c",
+  "active": "14839977f77c7827",
   "lastOpenFiles": [
+    "Git Bash.md",
+    "AUTOMATION TESTING/GitHub/GIT CODE IMPORTING.md",
+    "AUTOMATION TESTING/GitHub/GITHUB PROCEDURE.md",
+    "Stash.md",
+    "Commit revert.md",
+    "AUTOMATION TESTING/GitHub/GitHub.md",
     "AUTOMATION TESTING/GitHub/WORKING IN OTHER REPOSITORY/ECLIPSE IDE - FETCH & PUSH.md",
     "AUTOMATION TESTING/GitHub/WORKING IN OTHER REPOSITORY/INTELLIJ - FETCH & PUSH.md",
     "Eclipse IDE.md",
@@ -202,11 +241,8 @@
     "IMPORT X EXPORT.md",
     "JAVA",
     "GitHub/LOCAL TO REMOTE.md",
-    "AUTOMATION TESTING/GitHub/GIT CODE IMPORTING.md",
     "AUTOMATION TESTING/GitHub/WORKING IN OTHER REPOSITORY",
     "IntelliJ",
-    "AUTOMATION TESTING/GitHub/GITHUB PROCEDURE.md",
-    "AUTOMATION TESTING/GitHub/GitHub.md",
     "WORKING IN REPOSITORY.md",
     "AUTOMATION TESTING/Java-Selenium",
     "AUTOMATION TESTING/GitHub",

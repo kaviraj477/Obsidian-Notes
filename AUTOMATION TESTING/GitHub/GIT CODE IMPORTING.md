@@ -1,4 +1,4 @@
-GitHub Code importing: [[GitHub]]
+GitHub Code importing: [[GitHub]] [[Git Bash]]
 
 #1 : create a folder (mostly in local disc :C)
 #2 : open gitbash inside the folder

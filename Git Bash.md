@@ -1,0 +1,1 @@
+Type of commands used in git bash --> right click --> show more options --> git bash here

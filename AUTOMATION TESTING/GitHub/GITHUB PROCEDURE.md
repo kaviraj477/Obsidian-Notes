@@ -1,4 +1,4 @@
-[[GitHub]]
+[[GitHub]]  [[Git Bash]]
 
 #1 : install git hub
 #2 : open uses > admin folder >  right click ---> more options---> open git bash here
