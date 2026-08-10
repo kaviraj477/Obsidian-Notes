@@ -1,4 +1,4 @@
-*TESTNG INSTALLAITION*
+*TESTNG INSTALLAITION*  [[TestNG]]
 
 1. Help > Eclipse MarketPlace > Search > TestNG > Install > restart eclipse
 2. To confirm testNG installed : right click on project > TestNG option present

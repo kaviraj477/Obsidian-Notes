@@ -1,3 +1,4 @@
+[[TestNG]]
 1. Add @Test before methods (this executes the code based on ASCII Codes randomn order only)
 2. Run as TestNG Test
 
