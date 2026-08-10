@@ -34,3 +34,18 @@ IV. .xml file methods (Hierarchical order)
  + `@AfterClass`
  + `@AfterTest` 
  + `@AfterSuite` --> executes after the suite
+
+V. PARAMETERS
+ *parameters can be passed inside class. It can be passed inside .xml file*
+ *can be written multiple times in an .xml file*
+
+*Syntax inside .xml*
+ + `<parameter> name = " 1 " value = " 2 " >`  --> can add no.of name and values
+ + `</parameter>`
+
+*Syntax inside Class (before method and @Test)* 
++ `@Parameters ({"1", "2"})` ---> can add any no.of parameters based on .xml name and value
++ `@Test(.........) `
++ `public void method (@Optional ("3") datatype 3, @Optional ("4") datatype 4 ){`
++ `WebElemnt var = driver.find.......`
++ `1.click();`
