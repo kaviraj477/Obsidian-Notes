@@ -74,7 +74,7 @@ VII. MULTIPLE VALUES 2
 + `@DataProvider (name = "1")`
 + `public object [] [] methodname () {
 + `return new Object [] [] {{ "2","3"}{"4","5"}}; -->can add any no.of values
-+ j
++ 
 + `@Test (dataProvider = "1")`
 + `public void methodName2 (Datatype 6 , Datatype 7){`
 + `element.sendKeys(6 (or) 7);`--> only one we can use
