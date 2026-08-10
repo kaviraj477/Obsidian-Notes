@@ -48,4 +48,37 @@ V. PARAMETERS
 + `@Test(.........) `
 + `public void method (@Optional ("3") datatype 3, @Optional ("4") datatype 4 ){`
 + `WebElemnt var = driver.find.......`
-+ `1.click();`
+
+VI. DATA PROVIDERS
+
++ `@DataProvider (name = "1" )   
++ `public object [ ] [ ] objName ( ) {  `
++ `return new Object [ ] [ ] {{"2"}}`  2--> goes to 1
++ 
++ `@Test (dataProvider = "1")`    1-->3
++ `public void methodName (Datatype "3")`
++ `element.sendkeys (3)`
+
+VII. MULTIPLE VALUES
+
+  + `@DataProvider (name = "1")`
+  + `public object [] [] methodName () {`
+  + `return new Object [] [] {{ "2", "3", }};  2,3--> goes to 1
+  + 
+  + `@Test (dataProvider = "1")`
+  + `public void methodName2 (Datatype 4 , Datatype 5){`
+  + `element.sendKeys(4 (or) 5);`--> only one we can use
+
+VII. MULTIPLE VALUES 2
+
++ `@DataProvider (name = "1")`
++ `public object [] [] methodname () {
++ `return new Object [] [] {{ "2","3"}{"4","5"}}; -->can add any no.of values
++ j
++ `@Test (dataProvider = "1")`
++ `public void methodName2 (Datatype 6 , Datatype 7){`
++ `element.sendKeys(6 (or) 7);`--> only one we can use
++ 
+   
+
+
