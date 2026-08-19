@@ -62,6 +62,14 @@
 16. Broken link:
 	 HttpURLConnection var =  (HttpURLConnection) (new URL(link var name).openConnection());
 
+17. Junit Testing:
+     `@RunWith(Suite.class)
+     `@SuiteClasses ({Class1name.class, class2name.class}) 
+
+     + ***Keywords:***   `@BeforeClass, @Test, @AfterClass
+     
+
+
 
 
 

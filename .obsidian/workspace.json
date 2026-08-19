@@ -79,12 +79,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Local to Remote.md",
+                "file": "TestNG/TestNG INTRODUCTION.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Local to Remote"
+              "title": "TestNG INTRODUCTION"
             }
           }
         ],
@@ -263,17 +263,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c90efd78137629a8",
+  "active": "ad0b0ad098e1ee8c",
   "lastOpenFiles": [
-    "AUTOMATION TESTING/GitHub/GITHUB PROCEDURE.md",
+    "TestNG/TestNG Execution.md",
+    "AUTOMATION TESTING/Java-Selenium/SYNTAX.md",
     "Local to Remote.md",
+    "AUTOMATION TESTING/GitHub/GITHUB PROCEDURE.md",
     "AUTOMATION TESTING/GitHub/GitHub.md",
     "AUTOMATION TESTING/GitHub/GitBash/Commit revert.md",
     "AUTOMATION TESTING/GitHub/GitBash/Stash.md",
     "AUTOMATION TESTING/Java-Selenium/DOM LOCATORS.md",
-    "AUTOMATION TESTING/Java-Selenium/SYNTAX.md",
     "AUTOMATION TESTING/Java-Selenium/Junit Procedure.md",
-    "TestNG/TestNG Execution.md",
     "TestNG/TestNG INTRODUCTION.md",
     "Grouping.md",
     "Untitled.canvas",
