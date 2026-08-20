@@ -15,10 +15,10 @@
 
 **OPEN .XML FILE**
 1. Below <suite> type : 
-	     `<listeners>`
-	     `<listener class-name = "packagename.classname1"/>`
-	     `</listeners>`
-2.  Feature file --> run as TestNGsuite
+			 `<listeners>`
+			`<listener class-name = "packagename.classname1"/>`
+			`</listeners>`
+  2.  Feature file --> run as TestNGsuite
 
 
 
