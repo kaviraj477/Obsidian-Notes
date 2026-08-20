@@ -20,5 +20,9 @@
 			`</listeners>`
   2.  Feature file --> run as TestNGsuite
 
+FAILED CASES REPORT
+
+	1. Open test-ouput (folder) --> testing-failed.xml (file)
+
 
 
