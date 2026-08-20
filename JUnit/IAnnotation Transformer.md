@@ -11,6 +11,8 @@
 5. `String s1 = testmethod.getname();`
    `System.out.println(s1);`
 	   + `testmethod` --> Method variable (mentioned in method arguments)
+	   + `getname` --> gets the name of the test failed ( retried)
+	
 	
 
 **OPEN .XML FILE**
