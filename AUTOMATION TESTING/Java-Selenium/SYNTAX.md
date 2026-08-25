@@ -67,7 +67,16 @@
      `@SuiteClasses ({Class1name.class, class2name.class}) 
 
      + ***Keywords:***   `@BeforeClass, @Test, @AfterClass
-     
+18. POM:
+   + *create an argument based constructor , whose values are passed from another class and then initialize it.
+   
+	   + `public classname1 (WebElement drivername){
+	     `pagefactory.initElements(drivername, this);
+	       }`
+	+ `` classname1 obj = new classname1(drivername1); >> this argument is pased to POM lass
+	     `drivername1 = new ChromeDriver(); >> argument value is asignes here
+	     
+	 + *P.S: drivername and drivername1 can be same or different*
 
 
 
