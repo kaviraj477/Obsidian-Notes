@@ -149,12 +149,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CALLING METHODS.md",
+                "file": "AUTOMATION TESTING/Java-Selenium/SYNTAX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CALLING METHODS"
+              "title": "SYNTAX"
             }
           }
         ],
@@ -335,10 +335,10 @@
   },
   "active": "23c7b9ccd8cf99aa",
   "lastOpenFiles": [
-    "Pasted image 20260821191737.png",
     "CALLING METHODS.md",
-    "Untitled.canvas",
     "AUTOMATION TESTING/Java-Selenium/SYNTAX.md",
+    "Pasted image 20260821191737.png",
+    "Untitled.canvas",
     "Jenkins.md",
     "SQL COMMANDS.md",
     "JUnit/IRetry Analyzer.md",

@@ -6,36 +6,47 @@
      Eg. public Classname () { }
 
 4. ARRAY:
-    i)Datatype var [] = new Datatype [size];
-   ii)Datatype [] var = {v,a,l,u,e,s};
+    `i)Datatype var [] = new Datatype [size];  --> *DYNAMIC ARRAY*
+   `ii)Datatype [] var = {v,a,l,u,e,s}; --> *STATIC ARRAY*
 
-5. LIST:
+5.  STRING:
+     i) Concat:  *it wont't overwrite, rather it joins in a new varaible*
+         `String var1 = "tiger";
+         `` String s1 = var1.concat("muthuvel Pandian");
+         
+     ii) Append: *it overwrites the value*
+         `StringBuffer var2 = new StringBuffer ("tiger");`
+         `var2.append("ferocious");`
+
+`
+
+6. LIST:
      `List<DataType> listName = new ArrayList<>();` {{Datatype-- wrapper class}}
 	    List variable = new ArrayList();
 	    List variable = new LinkedList();
 	    List variable = new VectorList();
 
       
-6. SET:
+7. SET:
     Set variable = new HashSet();
     `Set<Integer> variable = new HashSet<>();`
 
-7. MAP:
+8. MAP:
     Map<key,value> variable = new HashMap<key,value>()
 
-8. ROBOT CLASS:
+9. ROBOT CLASS:
 	Robot var = new Robot();
 
-9. ACTIONS:
+10. ACTIONS:
 	Actions a = new Actions(driver);
 
-10. DROPDOWN:
+11. DROPDOWN:
 	Select s = new Select (var);
 
-11. IMPLICIT WAITS:
+12. IMPLICIT WAITS:
 	driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 
-12. EXPLICIT WAITS:
+13. EXPLICIT WAITS:
 	 i) WEBDRIVER WAIT :
 		 WebDriverWait wait = new WebDriverWait(driver, 60);
 	    wait.until(ExpectedConditions.visibilityOf(text));
@@ -47,27 +58,27 @@
 
 		 fwait.until(ExpectedConditions.elementToBeClickable(userName));
 
-13. FILE :  ("refer Pack: exceptionHandling-->FileHandling ")
+14. FILE :  ("refer Pack: exceptionHandling-->FileHandling ")
 	 File var =  new File (path:\\filename.type)
 	 boolean B1 = var.mkdir();    //For creating a single folder:--->path name end with folder name
 	 boolean B2 = var.mkdirs();  //For creating multiple folder: -->end with folder inside folder.... names
 	 boolean B3 = var.createNewFile(); //For creating files:-->for this path name should end with file format(.pdf etc)
 
-14. JAVASCRIPT EXECUTOR:
+15. JAVASCRIPT EXECUTOR:
 	  `JavascriptExecutor js = (JavascriptExecutor)driver;`
 
-15. DROP DOWN:
+16. DROP DOWN:
 	`Select s = new Select(var);`
 
-16. Broken link:
+17. Broken link:
 	 HttpURLConnection var =  (HttpURLConnection) (new URL(link var name).openConnection());
 
-17. Junit Testing:
+18. Junit Testing:
      `@RunWith(Suite.class)
      `@SuiteClasses ({Class1name.class, class2name.class}) 
 
      + ***Keywords:***   `@BeforeClass, @Test, @AfterClass
-18. POM:
+19. POM:
    + *create an argument based constructor , whose values are passed from another class and then initialize it.
    
 	   + `public classname1 (WebElement drivername){
