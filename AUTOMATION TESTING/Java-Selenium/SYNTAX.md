@@ -10,11 +10,11 @@
    `ii)Datatype [] var = {v,a,l,u,e,s}; --> *STATIC ARRAY*
 
 5.  STRING:
-     i) Concat:  *it wont't overwrite, rather it joins in a new varaible*
+     **i) Concat:**  *it wont't overwrite, rather it joins in a new varaible*
          `String var1 = "tiger";
          `` String s1 = var1.concat("muthuvel Pandian");
          
-     ii) Append: *it overwrites the value*
+     **ii) Append: *it overwrites the value*
          `StringBuffer var2 = new StringBuffer ("tiger");`
          `var2.append("ferocious");`
 
