@@ -10,7 +10,7 @@
    ii)Datatype [] var = {v,a,l,u,e,s};
 
 5. LIST:
-     `List<DataType> listName = new ArrayList<>();` 
+     `List<DataType> listName = new ArrayList<>();` {{Datatype-- wrapper class}}
 	    List variable = new ArrayList();
 	    List variable = new LinkedList();
 	    List variable = new VectorList();
