@@ -231,7 +231,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cbb8dff97e152af4",
@@ -347,7 +348,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9bd96114db82e53d",
+  "active": "5ba0504edbee8966",
   "lastOpenFiles": [
     "Untitled.md",
     "Dependencies.md",
