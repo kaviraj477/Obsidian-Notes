@@ -69,16 +69,32 @@
 
 16. DROP DOWN:
 	`Select s = new Select(var);`
+	
+17. `TakesScreenshot var =  (TakesScreenshot)driver;
+     `File SourceVar = var.getScreenshotAs(OutputType.FILE);
+     `File destinationVar = new File("D:\\\FileFolderName\\FileName.png);
+     `FileUtis.copyFile(SourceVar, destinationVar);
+18. Alert:
+     `Alert var = driver.switchTo().alert();
+19. WindowHandling:
+     `String s = driver.getWindowHandle();` --> To get present window ID
+     `Set <String> S2 = driver.getWindowHandles();` -->To get all the opoened window IDs
+     `driver.switchTO().window(WindowVariable);`
+ 20. Actions:
+     1. Drag & drop:
+         `Actions a = new Actions (driver);`
+    2. Keyboard functions:
+    
 
-17. Broken link:
+21. Broken link:
 	 HttpURLConnection var =  (HttpURLConnection) (new URL(link var name).openConnection());
 
-18. Junit Testing:
+22. Junit Testing:
      `@RunWith(Suite.class)
      `@SuiteClasses ({Class1name.class, class2name.class}) 
 
      + ***Keywords:***   `@BeforeClass, @Test, @AfterClass
-19. POM:
+23. POM:
    + *create an argument based constructor , whose values are passed from another class and then initialize it.
    
 	   + `public classname1 (WebElement drivername){
